@@ -21,3 +21,7 @@ Trang chủ IOT
 Grafana
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be7dbb02-b921-4917-ac3b-3e86911e6c2f" />
 Node-RED 
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86545e74-fac1-433f-b640-929e55a6dd41" />
+truy cập maria Login: root / rootpass  , Tạo 2 bảng user và senser
