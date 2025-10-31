@@ -25,3 +25,9 @@ Node-RED
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86545e74-fac1-433f-b640-929e55a6dd41" />
 truy cập maria Login: root / rootpass  , Tạo 2 bảng user và senser
+
+### cấu hình node red
+ <img width="961" height="512" alt="image" src="https://github.com/user-attachments/assets/c574ca29-6188-4d15-98d8-f6525fc72a04" />
+ <img width="941" height="389" alt="image" src="https://github.com/user-attachments/assets/9b2c3ca5-dae4-464e-9c28-1c8368f1a89a" />
+
+install các thứ cần thiết
